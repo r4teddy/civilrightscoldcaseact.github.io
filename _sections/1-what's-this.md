@@ -14,6 +14,13 @@ link: About
 
   <div id="mobileNavWrapper" class="nav-wrapper" data-content-field="navigation-mobileNav">
     <nav id="mobileNavigation">
+        
+            <div class="collection active homepage">
+              <a href="/">
+                Home
+              </a>
+            </div>
+            
       
 On January 8th, 2019, the Cold Case Act was signed into law by President Donald Trump.
 
