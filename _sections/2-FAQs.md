@@ -12,10 +12,10 @@ link: FAQs
 <p>A: Private investigators, family members, and even high schoolers have made headway in closing a handful of these cases. However, they can't do so without the documents the FBI either won't release without significant redaction or release so slowly the cases come to a halt.
 <br>
 </p>
-<h1>Q: Why is this important?</font>
-<font size="3" color="blue">A: Solving these cases can bring closure to the families involved in these cases. It will bring justice to those who, until now, have gone unpunished for committing some of the most heinous crimes in our nation's history.
+<h1>Q: Why is this important?</h1>
+<p> A: Solving these cases can bring closure to the families involved in these cases. It will bring justice to those who, until now, have gone unpunished for committing some of the most heinous crimes in our nation's history.
 <br>
-</h1>
+</p>
 <h1>Q: Aren't there security problems?</h1>
 <p>A: No. Part of the bill allows the president to override any decision of the review board. The law is modeled after the John F. Kennedy Assassination Records Collection Act of 1992, which created a similar review board for the Kennedy assassination. Since 1992, between the FBI and CIA, there has only ever been one challenge on a review board decision, and that challenge was dropped and the document released before presidental intervention was sought. This medium of reviewing and releasing information has proven extremely effective in the past.</p>
 
