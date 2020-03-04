@@ -3,6 +3,7 @@ order: 2
 title: FAQs
 link: FAQs
 ---
+pre 
 
 <font size="4" color="red"> Q: What's wrong with FOIA?</font> 
 <font size="3" color="blue"> A: The current system of obtaining documents—Freedom of Information Act requests, or FOIA—is slow, leads to significant, and makes it difficult for private investigators to solve these cases. Because of its sheer size, the Department of Justice is unable to give the time necessary to solve cases that happened decades ago but still are in need of resolution. When tasked with solving 126 cases under the Emmet Till Act, the FBI closed 113 of these cases without resolution. An additional 8 were handed down to the states, meaning the FBI no longer involved itself with them.
