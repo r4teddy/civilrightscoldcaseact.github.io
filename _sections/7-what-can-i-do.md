@@ -5,7 +5,8 @@ link: Help
 ---
 Well, for starters, share the news! Share this website and tell your friends and family about our efforts.
 
-If you're in the United States and want to participate directly, we can help you find your lawmakers and write an email to them. You can also <a href="javascript:void(0)" onclick="emailPopup('Representative', '', 'rep')">click here</a> to view a sample email for your representative.
+If you're in the United States and want to participate directly, we can help you find your lawmakers and write an email to them. 
+<a href="mailto:?subject=Civil%20Rights%20Cold%20Case%20Act&amp;body=Hello%20NAME,%0D%0A%0D%0AI%20am%20contacting%20you%20as%20a%20concerned%20citizen%20of%20your%20state%20on%20behalf%20of%20the%20Civil%20Rights%20Cold%20Case%20Records%20Collecttion%20Act">Email Your Representative Today!</a>
 
 <div class="panel panel-default">
 	<div class="panel-body">
@@ -51,8 +52,7 @@ If you're in the United States and want to participate directly, we can help you
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
+					</div>				</div>
 			</div>
 		</div>
 		<div class="alerts">
@@ -95,8 +95,7 @@ If you're in the United States and want to participate directly, we can help you
 			<div id="email-info">
 				<div class="alert alert-info alert-dismissible fade in" role="alert">
 					<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-					
-<a href="mailto:?subject=Civil%20Rights%20Cold%20Case%20Act&amp;body=Hello%20NAME,%0D%0A%0D%0AI%20am%20contacting%20you%20as%20a%20concerned%20citizen%20of%20your%20state%20on%20behalf%20of%20the%20Civil%20Rights%20Cold%20Case%20Records%20Collecttion%20Act">Email Your Representative Today!</a>
+
 
 
 					Click the email icon next to a lawmaker's name for a sample email you can send.
